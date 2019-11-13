@@ -1,0 +1,4 @@
+selected_seed: P_20190325_165717
+u-net-architecture: U-Net: Convolutional Networks for Biomedical Image Segmentation
+u-net-predict: P_20190325_165717
+skeleton: P_20190325_165717
